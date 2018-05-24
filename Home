@@ -56,13 +56,39 @@ body {margin:0;}
 <body>
 <div class="topnav" id="myTopnav">
   <a href="./">Home</a>
-  <a href="./video.html"></a>
-  <a href="./advert.html"></a>
-  <a href="./sheets.html"></a>
-  <a href="./pictures.html"></a>
+  <a href="./"></a>
+  <a href="./"></a>
+  <a href="./"></a>
+  <a href="./"></a>
   <a href="./"></a>
   <a href="./">Map</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
  </div>
 <div style="padding-left:16px">
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
